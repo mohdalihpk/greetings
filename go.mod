@@ -1,3 +1,3 @@
-module github.com/mohdalihpk/greetings
+module elmtek.com.au/greetings
 
 go 1.19
