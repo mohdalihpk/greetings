@@ -1,3 +1,3 @@
-module elmtek.com.au/greetings
+module elmtek.com.au/ali/greetings
 
 go 1.19
