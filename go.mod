@@ -1,3 +1,3 @@
-module elmtek.com.au/mohdalihpk/mohdalihpkmodule
+module github.com/mohdalihpk/mohdalihpkmodule
 
 go 1.19
