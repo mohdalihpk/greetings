@@ -1,3 +1,3 @@
-module github.com/mohdalihpk/mohdalihpkmodule
+module github.com/mohdalihpk/mohdalihpkmodul
 
 go 1.19
